@@ -8,7 +8,7 @@ The data I propose to visualize for my project is Religion by Country that can b
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/fsajedi22/4bcf28e8d9b84747bbb498069508ce0f)
+[![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.03.06%20PM.png)](https://vizhub.com/fsajedi22/4bcf28e8d9b84747bbb498069508ce0f)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
