@@ -27,13 +27,14 @@ The sketches below were the very preliminary sketches. I was thinking of a world
 
 
 After looking at the data and thinking through the bar chart more, I came up with the sketch below. Here I have the interaction where the user cal filter the religion. I later thought of alos being able to filter the country. 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+
+[![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.14.48%20PM.png)]
+
 
 ## Open Questions
 
 How to add a filter?
-How to add multiple filters?
+How to add multiple filters (one for x and y data)?
 
 ## Milestones
 
