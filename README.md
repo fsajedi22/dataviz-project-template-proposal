@@ -21,8 +21,12 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-[![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.14.21%20PM.png)
+The sketches below were the very preliminary sketches. I was thinking of a world map and then have more information at each country. I also had the bar chart idea, but it was not flushed out. There were no interactions thought of at this point. 
 
+[![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.14.21%20PM.png)]
+
+
+After looking at the data and thinking through the bar chart more, I came up with the sketch below. Here I have the interaction where the user cal filter the religion. I later thought of alos being able to filter the country. 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
