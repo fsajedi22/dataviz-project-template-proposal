@@ -38,8 +38,8 @@ How to add multiple filters (one for x and y data)?
 
 ## Milestones
 
-Week 7 - Make bar chart with actual data
-Week 8 - Update the axes and title
+ * Week 7 - Make bar chart with actual data
+ * Week 8 - Update the axes and title
 Week 9 - Add a legend for colors of religions
 Week 10 - Figure out the best order of Countries (highest- lowest total, alphabetical, etc.)
 Week 11 - Add a way to show all the countries 
