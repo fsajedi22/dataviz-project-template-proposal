@@ -6,29 +6,18 @@ The data I propose to visualize for my project is Religion by Country that can b
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a stacked bar graph and each of the different colors represent different religions. Along the y-axis are the different countries. 
 
 [![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.03.06%20PM.png)](https://vizhub.com/fsajedi22/4bcf28e8d9b84747bbb498069508ce0f)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * How are religions distributed between countries?
+ * Which religion is the most popular in the world?
+ * How does one country compare to another?
+ * How does a specific religion vary through out the countries?
 
 ## Sketches
 
@@ -37,8 +26,16 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+How to add a filter?
+How to add multiple filters?
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+Week 7 - Make bar chart with actual data
+Week 8 - Update the axes and title
+Week 9 - Add a legend
+Week 10 - 
+Week 11 - 
+Week 12 - 
+Week 13 - 
+Week 14 - Finishing touches and presentation 
