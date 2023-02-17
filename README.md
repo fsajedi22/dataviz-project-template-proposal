@@ -33,9 +33,9 @@ How to add multiple filters?
 
 Week 7 - Make bar chart with actual data
 Week 8 - Update the axes and title
-Week 9 - Add a legend
-Week 10 - 
-Week 11 - 
-Week 12 - 
-Week 13 - 
+Week 9 - Add a legend for colors of religions
+Week 10 - Figure out the best order of Countries (highest- lowest total, alphabetical, etc.)
+Week 11 - Add a way to show all the countries 
+Week 12 - Add a way to filter for the religion
+Week 13 - Add a way to filter the countries
 Week 14 - Finishing touches and presentation 
