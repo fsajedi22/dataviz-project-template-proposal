@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is Religion by Country that can be found here: https://github.com/curran/data/blob/gh-pages/pew/religion/religionByCountry.csv
 
 ## Prototypes
 
