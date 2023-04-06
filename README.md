@@ -48,7 +48,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-The sketches below were the very preliminary sketches. I was thinking of a world map and then have more information at each country. I also had the bar chart idea, but it was not flushed out. There were no interactions thought of at this point. 
+The sketches below were the very preliminary sketches. I was thinking of a world map and then have more information at each country. I also had the bar chart idea, but it was not flushed out. 
 
 ![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.14.21%20PM.png)
 
