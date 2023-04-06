@@ -32,11 +32,11 @@ I’ve created a proof of concept visualization of this data. It's a stacked bar
 
 [![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.03.06%20PM.png)](https://vizhub.com/fsajedi22/4bcf28e8d9b84747bbb498069508ce0f)
 
-After I had this new data, I thought of doing plots over time, but as I played around with that I felt like the user was not getting much information out of it. In the end, I decided to use the most recent data that was not predicted (2020) and create a Choropleth map with the top religions per country. 
+After I had this new data, I thought of doing plots over time, but as I played around with that I felt like the user was not getting much information out of it. In the end, I decided to use the most recent data that was not predicted (2020) and create a Choropleth map with the top religion per country. 
 ## Data Manipulations
-In order to produce this, I needed to manipulate the data. First any religion that had below 10,000 was denotied by <10000. I chnaged these to 10000 as that is the value that was used to come up with the All Religions column based on my calculations. I only kept rows for 2020 and level being 1. I dropped a couple of columns including year, nation_fk, level, and region. In order to create the Choropleth map I was envisioning, I created a new column called TopR which represented the religion with the highest number in excel. 
+In order to produce this, I needed to manipulate the data. First any religion that had below 10,000 was denotied by <10000. I changed these to 10000 as that is the value that was used to come up with the All Religions column based on my calculations. I only kept rows for 2020 and level being 1. I dropped a couple of columns including year, nation_fk, level, and region. In order to create the Choropleth map I was envisioning, I created a new column called TopR which represented the religion with the highest number in excel. 
 
-As time went on, I needed to add another column for the integer that represented the company. This column is called iso_n3. 
+As time went on, I needed to add another column for the integer that represented the country. This column is called iso_n3. 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
@@ -58,17 +58,17 @@ After looking at the data and thinking through the bar chart more, I came up wit
 ![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.14.48%20PM.png)
 
 ## Current State
-I have 2 views currently. One flat map and one round. The interactions are if the user hovers over a country it will state the country name and the top religion along with if the user clicks on a country or a particular religion in the legend only those countries for the same religion will be shown. This is very helpful for the not as popular religions as they do not pop out otherwise. 
+I have 2 views currently. One flat map and one round. The interactions are if the user hovers over a country it will state the country name and the top religion along with if the user clicks on a particular religion in the legend only those countries for the same religion will be shown. This is very helpful for the not as popular religions as they do not pop out otherwise. 
 
 ## Open Questions
 
-How to encopass all the countries as I have some that are not pulling in?
-How to have the user be able to rotate the globe with the mouse?
+* How to encopass all the countries as I have some that are not pulling in?
+* How to have the user be able to rotate the globe with the mouse?
 
 ## Future Improvements
 
-Have a slider at the top for the different years and have the Cholopleth map change based on the year
-Have a pie chart shown for all the religions to give the user more information
+* Have a slider at the top for the different years and have the Cholopleth map change based on the year
+* Have a pie chart shown for all the religions to give the user more information
 
 ## Milestones
 
