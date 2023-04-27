@@ -1,4 +1,4 @@
-# Data Visualization Project
+# Data Visualization Project - Religion By Country
 
 ## Data
 
@@ -83,8 +83,3 @@ The final view is a global view that spins all the time allowing for the user to
 * Have a slider at the top for the different years and have the Cholopleth map change based on the year
 * Have a pie chart shown for all the religions to give the user more information
 
-## Milestones
-
- * Week 13 - Fix the missing countries
- * Week 14 - Try to have a way for user to move globe around 
- * Week 15 - Finishing touches and presentation 
