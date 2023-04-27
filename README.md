@@ -62,6 +62,8 @@ After looking at the data and thinking through the bar chart more, I came up wit
 
 The final view is a global view that spins all the time allowing for the user to see all the different countries. Each religion has a different color and all the countries have a religion associated with it. For this view, the religion shown is whichever had the highest number of people practing that religion.
 
+[![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-04-26%20at%208.47.40%20PM.png)](https://vizhub.com/fsajedi22/32f25451c2994ccc90498bcd6d3446d3)
+
 ## Open Questions
 
 * How to allow the legend to filter the visual as section of code is not pointing to the right set of data?
