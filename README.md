@@ -56,13 +56,15 @@ The sketches below were the very preliminary sketches. I was thinking of a world
 After looking at the data and thinking through the bar chart more, I came up with the sketch below. Here I have the interaction where the user cal filter the religion. I later thought of alos being able to filter the country. 
 
 ![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.14.48%20PM.png)
+## Intermediate Steps 
 
-## Current State
-I have 2 views currently. One flat map and one round. The interactions are if the user hovers over a country it will state the country name and the top religion along with if the user clicks on a particular religion in the legend only those countries for the same religion will be shown. This is very helpful for the not as popular religions as they do not pop out otherwise. 
+## Final State
+
+The final view is a global view that spins all the time allowing for the user to see all the different countries. Each religion has a different color and all the countries have a religion associated with it. For this view, the religion shown is whichever had the highest number of people practing that religion.
 
 ## Open Questions
 
-* How to encopass all the countries as I have some that are not pulling in?
+* How to allow the legend to filter the visual as section of code is not pointing to the right set of data?
 * How to have the user be able to rotate the globe with the mouse?
 
 ## Future Improvements
