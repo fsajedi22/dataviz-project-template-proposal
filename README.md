@@ -36,7 +36,7 @@ After I had this new data, I thought of doing plots over time, but as I played a
 ## Data Manipulations
 In order to produce this, I needed to manipulate the data. First any religion that had below 10,000 was denotied by <10000. I changed these to 10000 as that is the value that was used to come up with the All Religions column based on my calculations. I only kept rows for 2020 and level being 1. I dropped a couple of columns including year, nation_fk, level, and region. In order to create the Choropleth map I was envisioning, I created a new column called TopR which represented the religion with the highest number in excel. 
 
-As time went on, I needed to add another column for the integer that represented the country. This column is called iso_n3. 
+As time went on, I needed to add another column for the country 3 letter code. This column is called iso_n3. 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
@@ -53,7 +53,7 @@ The sketches below were the very preliminary sketches. I was thinking of a world
 ![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.14.21%20PM.png)
 
 
-After looking at the data and thinking through the bar chart more, I came up with the sketch below. Here I have the interaction where the user cal filter the religion. I later thought of alos being able to filter the country. 
+After looking at the data and thinking through the bar chart more, I came up with the sketch below. Here I have the interaction where the user can filter the religion. I later thought of also being able to filter the country. 
 
 ![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.14.48%20PM.png)
 ## Intermediate Steps 
