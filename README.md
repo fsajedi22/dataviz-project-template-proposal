@@ -58,6 +58,15 @@ After looking at the data and thinking through the bar chart more, I came up wit
 ![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-02-16%20at%208.14.48%20PM.png)
 ## Intermediate Steps 
 
+[![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-04-26%20at%208.57.04%20PM.png)](https://vizhub.com/fsajedi22/4bcf28e8d9b84747bbb498069508ce0f)
+
+[![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-04-26%20at%208.55.21%20PM.png)](https://vizhub.com/fsajedi22/e9a96bb49c46447597e5c3deeccc49f0)
+
+[![image[(https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-04-26%20at%208.54.06%20PM.png)](https://vizhub.com/fsajedi22/45277191477546979f5808902eea3a07)
+
+[![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-04-26%20at%208.52.50%20PM.png)](https://vizhub.com/fsajedi22/e3cf437fabd841bf9615344d545d577c)
+
+[![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-04-26%20at%208.51.01%20PM.png)](https://vizhub.com/fsajedi22/05659424496448e1b00370862fc97d3f)
 ## Final State
 
 The final view is a global view that spins all the time allowing for the user to see all the different countries. Each religion has a different color and all the countries have a religion associated with it. For this view, the religion shown is whichever had the highest number of people practing that religion.
