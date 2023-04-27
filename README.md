@@ -62,7 +62,7 @@ After looking at the data and thinking through the bar chart more, I came up wit
 
 [![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-04-26%20at%208.55.21%20PM.png)](https://vizhub.com/fsajedi22/e9a96bb49c46447597e5c3deeccc49f0)
 
-[![image[(https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-04-26%20at%208.54.06%20PM.png)](https://vizhub.com/fsajedi22/45277191477546979f5808902eea3a07)
+[![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-04-26%20at%208.54.06%20PM.png)](https://vizhub.com/fsajedi22/45277191477546979f5808902eea3a07)
 
 [![image](https://github.com/fsajedi22/dataviz-project-template-proposal/blob/master/Screen%20Shot%202023-04-26%20at%208.52.50%20PM.png)](https://vizhub.com/fsajedi22/e3cf437fabd841bf9615344d545d577c)
 
